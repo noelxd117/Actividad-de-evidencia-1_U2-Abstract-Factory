@@ -1,0 +1,7 @@
+C:\Users\poken\source\repos\Abstract Factory\Abstract Factory\bin\Debug\Abstract Factory.exe.config
+C:\Users\poken\source\repos\Abstract Factory\Abstract Factory\bin\Debug\Abstract Factory.exe
+C:\Users\poken\source\repos\Abstract Factory\Abstract Factory\bin\Debug\Abstract Factory.pdb
+C:\Users\poken\source\repos\Abstract Factory\Abstract Factory\obj\Debug\Abstract Factory.csproj.AssemblyReference.cache
+C:\Users\poken\source\repos\Abstract Factory\Abstract Factory\obj\Debug\Abstract Factory.csproj.CoreCompileInputs.cache
+C:\Users\poken\source\repos\Abstract Factory\Abstract Factory\obj\Debug\Abstract Factory.exe
+C:\Users\poken\source\repos\Abstract Factory\Abstract Factory\obj\Debug\Abstract Factory.pdb
